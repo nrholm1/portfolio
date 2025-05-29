@@ -10,18 +10,18 @@ A selection of my projects in machine learning.<br>
 
 * [How Low Can You Go?](#how-low-can-you-go-iclr‑2025)
 * [Inducing Point Laplace Approximations](#inducing-point-laplace-approximations)
-* [Computing Geodesics on a Latent Manifold](#computing-geodesics-on-a-latent-manifold)
 * [Contrastive Pretraining for Combinatorial Optimization](#contrastive-pretraining-for-combinatorial-optimization)
+* [Computing Geodesics on a Latent Manifold](#computing-geodesics-on-a-latent-manifold)
 
 ### 📫 Contact
-|                 |                                                       |
+|                 |                 |
 | --------------- | ----------------------------------------------------- |
 | **Email**       | [nielsraunkjaer@gmail.com](mailto:nielsraunkjaer@gmail.com) |
 | **LinkedIn**    | [linkedin.com/in/nielsrh](https://www.linkedin.com/in/nielsrh) |
 
 ---
 
-## How Low Can You Go? *ICLR 2025*
+## How Low Can You Go? *(ICLR 2025)*
 
 [Paper ↗](https://openreview.net/pdf?id=V71ITh2w40)
 
@@ -47,31 +47,31 @@ A selection of my projects in machine learning.<br>
 
 ---
 
-## Computing Geodesics on a Latent Manifold
-
-*Report is hosted on Google Drive to not share solutions*.
-
-> **TL;DR** ...
-
-**Highlights**
-
-* .
-* .
-* .
-
----
-
 ## Contrastive Pretraining for Combinatorial Optimization
 
 [Report ↗](contrastive_pretraining_for_combinatorics.pdf)
 
-> **TL;DR** We show that contrastive self‑supervised training on synthetic graphs has a subtle failure mode on a downstream maximum independet set task that on the surface looks like -almost- state-of-the-art performance.
+> **TL;DR** We show that contrastive self‑supervised training on synthetic graphs has a subtle failure mode on a downstream maximum independent set task that on the surface looks like -almost- state-of-the-art performance.
 
 **Highlights**
 
 * Project on investigating pretraining procedures for graph neural networks, evaluating the quality of their learned representations on simple classification metrics and in a downstream NP hard combinatorial optimization problem (Maximum independent set).
 * Made a critical discovery about the decoding algorithm; when coupled with models with poor representations, the entire pipeline reduced to a greedy decoder, misleadingly giving state-of-the-art results on many real-world test datasets.
 * Ablated the findings with Exphormer, GCNN, GAT architectures.
+
+---
+
+## Computing Geodesics on a Latent Manifold
+
+*Report is hosted on Google Drive to not share solutions to the DTU course project.*.
+
+> **TL;DR** Investigation of Fisher–Rao geodesics in the latent space as a tool to improve identifiability in deep latent variable models (VAE \& VAE ensemble). Project in the DTU course [02460] Advanced Machine Learning.
+
+**Highlights**
+
+* Our implementation computed discretized curves in latent space that approximated Fisher-Rao geodesics - i.e. shortest distance in a space of probability distributions.
+* We demonstrated that the VAE ensembles exhibited lower coefficient of variation ($\frac\mu\sigma$) than the single decoders.
+* The trajectories between real data points also became closer to other embedded data points as we increased number of VAE decoders in the ensemble, indicating that the aggregated latent space more closely represented the data manifold.
 
 ---
 
