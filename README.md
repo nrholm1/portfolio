@@ -21,7 +21,7 @@ A selection of my projects in machine learning.<br>
 
 ---
 
-## How Low Can You Go? *(ICLR 2025)*
+## $\bigstar$ How Low Can You Go? *(ICLR 2025)*
 
 [Paper ↗](https://openreview.net/pdf?id=V71ITh2w40)
 
@@ -35,7 +35,7 @@ A selection of my projects in machine learning.<br>
 
 ---
 
-## Inducing Point Laplace Approximations
+## $\bigstar$ Inducing Point Laplace Approximations
 
 *M.Sc. thesis - Work In Progress!*
 
@@ -47,7 +47,7 @@ A selection of my projects in machine learning.<br>
 
 ---
 
-## Contrastive Pretraining for Combinatorial Optimization
+## $\bigstar$ Contrastive Pretraining for Combinatorial Optimization
 
 [Report ↗](contrastive_pretraining_for_combinatorics.pdf)
 
@@ -61,7 +61,7 @@ A selection of my projects in machine learning.<br>
 
 ---
 
-## Computing Geodesics on a Latent Manifold
+## $\bigstar$ Computing Geodesics on a Latent Manifold
 
 *Report is hosted on Google Drive to not share solutions to the DTU course project.*.
 
