@@ -8,16 +8,15 @@ A selection of my projects in machine learning.<br>
 
 ## Table of Contents
 
-* [How Low Can You Go?](#how-low-can-you-go-iclr‑2025)
+* [How Low Can You Go? *(ICLR 2025)*](#how-low-can-you-go-iclr‑2025)
 * [Inducing Point Laplace Approximations](#inducing-point-laplace-approximations)
 * [Contrastive Pretraining for Combinatorial Optimization](#contrastive-pretraining-for-combinatorial-optimization)
 * [Computing Geodesics on a Latent Manifold](#computing-geodesics-on-a-latent-manifold)
 
 ### 📫 Contact
-|                 |                 |
+|**Email** |**LinkedIn** |
 | --------------- | ----------------------------------------------------- |
-| **Email**       | [nielsraunkjaer@gmail.com](mailto:nielsraunkjaer@gmail.com) |
-| **LinkedIn**    | [linkedin.com/in/nielsrh](https://www.linkedin.com/in/nielsrh) |
+| [nielsraunkjaer@gmail.com](mailto:nielsraunkjaer@gmail.com) | [linkedin.com/in/nielsrh](https://www.linkedin.com/in/nielsrh) |
 
 ---
 
