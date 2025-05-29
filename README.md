@@ -49,7 +49,7 @@ A selection of my projects in machine learning.<br>
 
 ## Computing Geodesics on a Latent Manifold
 
-[Report ↗](02460_Miniproject_2.pdf)
+*Report is hosted on Google Drive to not share solutions*.
 
 > **TL;DR** ...
 
